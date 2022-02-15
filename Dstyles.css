@@ -14,14 +14,14 @@ form{
   border-radius: 25px;
   border: 2px solid #73AD21;
   padding: 20px;
-  width: 200px;
-  height: 150px;
+  width: 300px;
   margin: 25px auto;
 }
 
 label{
   display:block;
   margin: 15px auto;
+  padding: 10px;
   border-radius: 5px;
   background-color: #fffb4d;
 }
