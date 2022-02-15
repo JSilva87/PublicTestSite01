@@ -25,4 +25,6 @@ label{
   border-radius: 5px;
   background-color: #fffb4d;
 }
-  
+input{
+  width:100px;
+}
